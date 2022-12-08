@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HugoEnriqueAyalaAlarcon/biografia.git/static/css/main.9f6c750b.css",
-    "main.js": "/HugoEnriqueAyalaAlarcon/biografia.git/static/js/main.d0f5fee3.js",
-    "static/media/car-capri.jpg": "/HugoEnriqueAyalaAlarcon/biografia.git/static/media/car-capri.c4bb196a5c23648c27af.jpg",
-    "static/media/car-corvette.jpg": "/HugoEnriqueAyalaAlarcon/biografia.git/static/media/car-corvette.177e88746aacae620f6a.jpg",
-    "static/media/car-maverick.jpg": "/HugoEnriqueAyalaAlarcon/biografia.git/static/media/car-maverick.6c4d6e09eb9344b24855.jpg",
-    "static/media/car-vocho.jpg": "/HugoEnriqueAyalaAlarcon/biografia.git/static/media/car-vocho.5342a046f7f1d9bf3b67.jpg",
-    "static/media/car-mustang.jpg": "/HugoEnriqueAyalaAlarcon/biografia.git/static/media/car-mustang.6eb042a9668080bbd306.jpg",
-    "index.html": "/HugoEnriqueAyalaAlarcon/biografia.git/index.html",
-    "main.9f6c750b.css.map": "/HugoEnriqueAyalaAlarcon/biografia.git/static/css/main.9f6c750b.css.map",
-    "main.d0f5fee3.js.map": "/HugoEnriqueAyalaAlarcon/biografia.git/static/js/main.d0f5fee3.js.map"
+    "main.css": "/biografia/static/css/main.9f6c750b.css",
+    "main.js": "/biografia/static/js/main.4c1e4827.js",
+    "static/media/car-capri.jpg": "/biografia/static/media/car-capri.c4bb196a5c23648c27af.jpg",
+    "static/media/car-corvette.jpg": "/biografia/static/media/car-corvette.177e88746aacae620f6a.jpg",
+    "static/media/car-maverick.jpg": "/biografia/static/media/car-maverick.6c4d6e09eb9344b24855.jpg",
+    "static/media/car-vocho.jpg": "/biografia/static/media/car-vocho.5342a046f7f1d9bf3b67.jpg",
+    "static/media/car-mustang.jpg": "/biografia/static/media/car-mustang.6eb042a9668080bbd306.jpg",
+    "index.html": "/biografia/index.html",
+    "main.9f6c750b.css.map": "/biografia/static/css/main.9f6c750b.css.map",
+    "main.4c1e4827.js.map": "/biografia/static/js/main.4c1e4827.js.map"
   },
   "entrypoints": [
     "static/css/main.9f6c750b.css",
-    "static/js/main.d0f5fee3.js"
+    "static/js/main.4c1e4827.js"
   ]
 }
